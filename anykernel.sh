@@ -11,6 +11,7 @@ do.systemless=0
 do.cleanup=1
 do.cleanuponabort=0
 device.name1=xaga
+device.name2=xagain
 supported.versions=
 supported.patchlevels=
 supported.vendorpatchlevels=
