@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=ESK Kernel by bachnxuan | Telegram : @reverdd | Channel: @xaga_kernel
+kernel.string=ESK Kernel by @reverdd
 do.devicecheck=0
 do.modules=0
 do.systemless=0
@@ -12,6 +12,8 @@ do.cleanup=1
 do.cleanuponabort=0
 device.name1=xaga
 device.name2=xagain
+device.name3=xagapro
+device.name4=xagaproin
 supported.versions=
 supported.patchlevels=
 supported.vendorpatchlevels=
